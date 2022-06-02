@@ -43,5 +43,6 @@ The purpose of this coding challenge is to set up a Node.JS app that serves a si
     - Response: the response should return a success or error status.
 10. Deploy the Node.JS app. You can use Vercel, Heroku, AWS free tier or digital ocean (enter promo code DROPLET10 for free credits).
 11. When you are done, send us the link to your GitHub repository with a clear README file and any other details required for us to run the app.
+12. Final testing and assessment of your app will be done via Postman
 
 
