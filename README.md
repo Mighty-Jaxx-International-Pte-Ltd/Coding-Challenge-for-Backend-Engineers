@@ -42,7 +42,7 @@ The purpose of this coding challenge is to set up a Node.JS app that serves a si
     - Use a JWT to ensure only the owner of the account is able to delete the user data.
     - Response: the response should return a success or error status.
 10. Deploy the Node.JS app. You can use Vercel, Heroku, AWS free tier or digital ocean (enter promo code DROPLET10 for free credits).
-11. When you are done, send us the link to your GitHub repository with a clear README file and any other details required for us to run the app.
+11. When you are done, send us the link to your GitHub repository with a clear README file and any other details required for us to run the app. The app should be able to run without any additional set up on our end. 
 12. Final testing and assessment of your app will be done via Postman
 
 
